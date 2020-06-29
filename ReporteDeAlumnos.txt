@@ -1,0 +1,46 @@
+        RELACION DE ALUMNOS DE LA INSTITUCION
+================================================================================
+Codigo Nombre Especialidad0 Creditos Promedio Orden Situacion
+--------------------------------------------------------------------------------
+20161915 Kame/Sennin                    Física                              29.00      15.83         Tercio Medio           Egresado
+20189421 Kakaroto/Gokou                 Física                              29.00      14.83      Tercio Inferior           Egresado
+20161124 Ten/Shin/Han                   Física                              27.50      16.75      Tercio Inferior           Egresado
+20143405 Majin/Boo                      Física                              22.50      14.71      Tercio Inferior           Egresado
+20180962 Karim/Sobrin/Zarraga           Matemáticas                         32.50      13.11      Tercio Inferior           Egresado
+20171405 José/Miguel/Alvaredo/Rives     Matemáticas                         31.00      18.92      Tercio Inferior           Egresado
+20163689 Victoria/Cotes/Gasque          Matemáticas                         23.50      14.32      Tercio Inferior           Egresado
+20144007 María/Sonsoles/Ventureira/Mendioroz Matemáticas                         20.50      15.07      Tercio Inferior           Egresado
+20192601 Tony/Tony/Chopper              Química                             33.50      15.81         Tercio Medio           Egresado
+20199750 Nico/Robin                     Química                             32.00      16.20      Tercio Inferior           Egresado
+20176846 Roronoa/Zoro?                  Química                             30.00      14.40      Tercio Inferior           Egresado
+20149884 Monkey/D/Luffy                 Química                             28.00      15.29         Tercio Medio           Egresado
+20145795 Jesse/Pinkman                  Economía                            30.50      16.20         Tercio Medio           Egresado
+20168021 Saul/Goodman                   Economía                            26.00      15.10      Tercio Inferior           Egresado
+20186858 Walter/White                   Economía                            24.50      17.37      Tercio Inferior           Egresado
+20168382 Gustavo/Gus/Fring              Economía                            23.50      15.53         Tercio Medio           Egresado
+20148897 Salvador/Heresi                Finanzas                            35.00      16.59      Tercio Inferior           Egresado
+20167391 Mauricio/Mulder                Finanzas                            29.50      15.88         Tercio Medio           Egresado
+20188215 Juan/Sheput                    Finanzas                            29.00      17.41      Tercio Inferior           Egresado
+20195332 Alberto/de/Belaunde            Finanzas                            25.00      14.82      Tercio Inferior           Egresado
+20179096 Sakura/Haruno                  Ingeniería Industrial               33.00      15.85         Tercio Medio           Egresado
+20150794 Sasuke/Uchiha                  Ingeniería Industrial               30.50      14.31      Tercio Inferior           Egresado
+20182702 Naruto/Uzumaki                 Ingeniería Industrial               30.00      17.62      Tercio Inferior           Egresado
+20167622 Kakashi/Hatake                 Ingeniería Industrial               20.50      16.59      Tercio Inferior           Egresado
+20164727 Aurora/Beti/Sigcha             Ingeniería Informática              35.50      15.10         Tercio Medio           Egresado
+20151581 Javier/Napoles/Maderuelo       Ingeniería Informática              32.50      14.20      Tercio Inferior           Egresado
+20189931 Martí/Tomasa/Akkouh            Ingeniería Informática              31.50      16.70      Tercio Inferior           Egresado
+20159142 Ramona/Subiri/Macau            Ingeniería Informática              31.50      14.89      Tercio Inferior           Egresado
+20157180 Gino/Costa                     Arqueología                         28.50      15.19         Tercio Medio           Egresado
+20159464 Marco/Miyashiro                Arqueología                         27.50      15.25         Tercio Medio           Egresado
+20178625 Rosa/María/Bartra              Arqueología                         26.00      13.94      Tercio Inferior           Egresado
+20156639 Yeni/Vilcatoma                 Arqueología                         26.00      14.58      Tercio Inferior           Egresado
+20163766 Pedro/Pablo/Kuczynski/Godard   Ciencias de la Información          31.00      16.24      Tercio Inferior           Egresado
+20196909 Martín/Alberto/Vizcarra/Cornejo Ciencias de la Información          29.00      16.02         Tercio Medio           Egresado
+20156356 Ollanta/Humala/Tasso           Ciencias de la Información          25.00      17.30      Tercio Inferior           Egresado
+20145401 Alejandro/Toledo/Manrique      Ciencias de la Información          22.50      15.98         Tercio Medio           Egresado
+20178313 Alberto/Fujimori/Fujimori      Filosofía                           31.50      15.73         Tercio Medio           Egresado
+20164204 Alan/García/Pérez              Filosofía                           25.00      13.36      Tercio Inferior           Egresado
+20165938 Valentín/Paniagua/Corazao      Filosofía                           25.00      16.70      Tercio Inferior           Egresado
+20181299 Saul/Huaranga                  Filosofía                            7.00      16.21      Tercio Inferior         No egresado
+================================================================================
+Numero total de alumnos: 40
